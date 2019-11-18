@@ -1,4 +1,4 @@
-﻿After updating Projekt.tia
+﻿After uploading Projekt.tia
 
 1 .../operation/list GETS ALL DEVICES WITH TYPE = "DEVICE"
 
