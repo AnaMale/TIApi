@@ -1,0 +1,57 @@
+﻿
+body {
+  font: normal 25px 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 25px;
+}
+
+h1, h2, p {
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+input, button {
+  font: normal 40px 'Open Sans', sans-serif;
+}
+
+.field {
+  margin-top: 40px;
+}
+
+.buttons {
+  margin-top: 40px;
+}
+
+.upload-button {
+  background: #f0f0f0;
+  border-radius: 250px;
+  text-align: center;
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+
+.upload-button .label {
+  line-height: 400px;
+  pointer-events: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 400px;
+  height: 400px;
+}
+
+.upload-button input {
+  cursor: pointer;
+  font-size: 400px;
+  width: 400px;
+  height: 400px;
+}
